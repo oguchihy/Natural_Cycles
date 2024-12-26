@@ -1,0 +1,22 @@
+# R Environment
+.Rhistory
+.RData
+.Rproj.user/
+
+# Data Files
+data/additional/
+data/*.rds
+data/*.csv
+data/*.xlsx
+data/*.fna
+data/*.zip
+data/*.gz
+
+# Logs and Temporary Files
+*.log
+*.tmp
+
+# OS Files
+Thumbs.db
+.DS_Store
+
